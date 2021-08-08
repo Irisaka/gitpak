@@ -1,2 +1,2 @@
 python is great
-C is also perfect
+C is wonderful
